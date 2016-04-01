@@ -1,4 +1,4 @@
-## Fotof
+## Foton
 
 Photo-sharing app built using RoR
 
